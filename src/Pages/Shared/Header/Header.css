@@ -1,0 +1,5 @@
+.nav-menu h6:hover {
+    color: yellow;
+    font-size: 18px;
+    transition: all linear 0.4s;
+}
