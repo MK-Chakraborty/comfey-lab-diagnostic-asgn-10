@@ -28,7 +28,7 @@ const Banner = () => {
 
                     <Carousel.Caption>
                         <h2>Get Ahead of Your Health</h2>
-                        <h5 className='d-none d-md-block'>Purchase your own health tests and get the answers you need to help keep your wellness on track.</h5>
+                        <h5 className='d-none d-md-block'>Purchase your own health tests and get the answers <span className='text-light'> you need to help keep your wellness on track.</span></h5>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,7 +40,7 @@ const Banner = () => {
 
                     <Carousel.Caption className='fw-bold'>
                         <h2>Kid-Friendly COVID-19 Home Collection Kit</h2>
-                        <h5 className='d-none d-md-block'>Back to school is upon us, and Pixel makes it easy to get testing for children ages 2 and up.</h5>
+                        <h5 className='d-none d-md-block'>Back to school is upon us, and Pixel makes it easy <span className='text-light'> to get testing for children ages 2 and up.</span></h5>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
