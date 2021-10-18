@@ -1,3 +1,7 @@
+.nav-menu h6 {
+    margin-top: 2px;
+}
+
 .nav-menu h6:hover {
     color: yellow;
     font-size: 18px;
