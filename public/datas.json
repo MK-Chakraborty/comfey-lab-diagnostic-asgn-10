@@ -3,71 +3,62 @@
         "id" : 1,
         "title" : "Pathology Lab",
         "img" : "https://i.ibb.co/qB7MbmX/Pathology.png",
-        "desp" : "Pathology is the study of the causes and effects of disease or injury. The word pathology also refers to the study of disease in general, incorporating a wide range of biology research fields and medical practices. However, when used in the context of modern medical treatment, the term is often used in a more narrow fashion to refer to processes and tests which fall within the contemporary medical field of general pathology, an area which includes a number of distinct but inter-related medical specialties that diagnose disease, mostly through analysis of tissue, cell, and body fluid samples. Idiomatically, a pathology may also refer to the predicted or actual progression of particular diseases (as in the statement the many different forms of cancer have diverse pathologies, in which case a more proper choice of word would be pathophysiologies), and the affix pathy is sometimes used to indicate a state of disease in cases of both physical ailment (as in cardiomyopathy) and psychological conditions. A physician practicing pathology is called a pathologist.",
-        "fee" : 350
+        "desp" : "Pathology is the study of the causes and effects of disease or injury. The word pathology also refers to the study of disease in general, incorporating a wide range of biology research fields and medical practices."
     },
 
     {
         "id" : 2,
         "title" : "Neurology Lab",
         "img" : "https://i.ibb.co/NZj5B4W/Neurology.png",
-        "desp" : "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems (and their subdivisions, the autonomic and somatic nervous systems), including their coverings, blood vessels, and all effector tissue, such as muscle.[1] Neurological practice relies heavily on the field of neuroscience, the scientific study of the nervous system. A neurologist is a physician specializing in neurology and trained to investigate, or diagnose and treat neurological disorders.[2] Neurologists treat a myriad of neurologic conditions, including stroke, seizures, movement disorders such as Parkinson's disease, autoimmune neurologic disorders such as multiple sclerosis, headache disorders like migraine and dementias such as Alzheimer's disease.[3] Neurologists may also be involved in clinical research, clinical trials, and basic or translational research. While neurology is a nonsurgical specialty, its corresponding surgical specialty is neurosurgery.",
-        "fee" : 600
+        "desp" : "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous"
     },
 
     {
         "id" : 3,
         "title" : "Molecular diagnostics Lab",
         "img" : "https://i.ibb.co/vqwqgMG/Molecular-Diagnostic-Lab.png",
-        "desp" : "Molecular diagnostics is a collection of techniques used to analyze biological markers in the genome and proteome, and how their cells express their genes as proteins, applying molecular biology to medical testing. In medicine the technique is used to diagnose and monitor disease, detect risk, and decide which therapies will work best for individual patients,[1][2]: foreword  and in agricultural biosecurity similarly to monitor crop- and livestock disease, estimate risk, and decide what quarantine measures must be taken. By analysing the specifics of the patient and their disease, molecular diagnostics offers the prospect of personalised medicine.[4] These tests are useful in a range of medical specialties, including infectious disease, oncology, human leucocyte antigen typing (which investigates and predicts immune function), coagulation, and pharmacogenomics—the genetic prediction of which drugs will work best. They overlap with clinical chemistry (medical tests on bodily fluids).",
-        "fee" : 550
+        "desp" : "Molecular diagnostics is a collection of techniques used to analyze biological markers in the genome and proteome, and how their cells express their genes as proteins, applying molecular biology to medical testing."
     },
 
     {
         "id" : 4,
         "title" : "Endoscopy Lab",
         "img" : "https://i.ibb.co/w71sL3n/Endoscopy.png",
-        "desp" : "An endoscopy (looking inside) is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies. Depending on the site in the body and type of procedure, an endoscopy may be performed by either a doctor or a surgeon. A patient may be fully conscious or anaesthetised during the procedure. Most often, the term endoscopy is used to refer to an examination of the upper part of the gastrointestinal tract, known as an esophagogastroduodenoscopy. For nonmedical use, similar instruments are called borescopes. Endoscopy may be used to investigate symptoms in the digestive system including nausea, vomiting, abdominal pain, difficulty swallowing, and gastrointestinal bleeding.[5] It is also used in diagnosis, most commonly by performing a biopsy to check for conditions such as anemia, bleeding, inflammation, and cancers of the digestive system.[5] The procedure may also be used for treatment such as cauterization of a bleeding vessel, widening a narrow esophagus, clipping off a polyp or removing a foreign object.",
-        "fee" : 300
+        "desp" : "An endoscopy (looking inside) is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques"
     },
 
     {
         "id" : 5,
         "title" : "Electrocardiography (ECG) Lab",
         "img" : "https://i.ibb.co/gv1mSKp/ECG.png",
-        "desp" : "Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]). It is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat). Changes in the normal ECG pattern occur in numerous cardiac abnormalities, including cardiac rhythm disturbances (such as atrial fibrillation and ventricular tachycardia), inadequate coronary artery blood flow (such as myocardial ischemia and myocardial infarction), and electrolyte disturbances (such as hypokalemia and hyperkalemia). In a conventional 12-lead ECG, ten electrodes are placed on the patient's limbs and on the surface of the chest. The overall magnitude of the heart's electrical potential is then measured from twelve different angles (leads) and is recorded over a period of time (usually ten seconds). In this way, the overall magnitude and direction of the heart's electrical depolarization is captured at each moment throughout the cardiac cycle. There are three main components to an ECG: the P wave, which represents the depolarization of the atria; the QRS complex, which represents the depolarization of the ventricles; and the T wave, which represents the repolarization of the ventricles.",
-        "fee" : 100
+        "desp" : "Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]). It is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin. These electrodes detect the small"
     },
 
     {
         "id" : 6,
         "title" : "Colonoscopy Lab",
         "img" : "https://i.ibb.co/XbC7CfZ/Colonoscopy.png",
-        "desp" : "Colonoscopy (/ˌkɒləˈnɒskəpi/) or coloscopy (/kəˈlɒskəpi/) is the endoscopic examination of the large bowel and the distal part of the small bowel with a CCD camera or a fiber optic camera on a flexible tube passed through the anus. It can provide a visual diagnosis (e.g., ulceration, polyps) and grants the opportunity for biopsy or removal of suspected colorectal cancer lesions.Colonoscopy can remove polyps smaller than one millimeter. Once polyps are removed, they can be studied with the aid of a microscope to determine if they are precancerous or not. It can take up to 15 years for a polyp to turn cancerous.[citation needed] Colonoscopy is similar to sigmoidoscopy—the difference being related to which parts of the colon each can examine. A colonoscopy allows an examination of the entire colon (1200–1500 mm in length). A sigmoidoscopy allows an examination of the distal portion (about 600 mm) of the colon, which may be sufficient because benefits to cancer survival of colonoscopy have been limited to the detection of lesions in the distal portion of the colon.",
-        "fee" : 700
+        "desp" : "Colonoscopy (/ˌkɒləˈnɒskəpi/) or coloscopy (/kəˈlɒskəpi/) is the endoscopic examination of the large bowel and the distal part of the small bowel with a CCD camera or a fiber optic camera on a flexible tube passed through the anus."
     },
 
     {
         "id" : 7,
         "title" : "Anesthesia",
         "img" : "https://i.ibb.co/Wxxj2F5/Anesthesia.png",
-        "desp" : "Anesthesia is a state of controlled, temporary loss of sensation or awareness that is induced for medical purposes. It may include some or all of analgesia (relief from or prevention of pain), paralysis (muscle relaxation), amnesia (loss of memory), and unconsciousness. A patient under the effects of anesthetic drugs is referred to as being anesthetized. Anesthesia enables the painless performance of medical procedures that would otherwise cause severe or intolerable pain to an unanesthetized patient, or would otherwise be technically unfeasible.he risks of complications during or after anesthesia are often difficult to separate from those of the procedure for which anesthesia is being given, but in the main they are related to three factors: the health of the patient, the complexity (and stress) of the procedure itself, and the anaesthetic technique. Of these factors, the health of the patient has the greatest impact. Major perioperative risks can include death, heart attack, and pulmonary embolism whereas minor risks can include postoperative nausea and vomiting and hospital readmission. Some conditions, like local anesthetic toxicity, airway trauma or malignant hyperthermia, can be more directly attributed to specific anesthetic drugs and techniques.",
-        "fee" : 80
+        "desp" : "Anesthesia is a state of controlled, temporary loss of sensation or awareness that is induced for medical purposes. It may include some or all of analgesia (relief from or prevention of pain), paralysis (muscle relaxation),"
     },
 
     {
         "id" : 8,
         "title" : "Ambulance",
         "img" : "https://i.ibb.co/3B97Z9q/Ambulance.png",
-        "desp" : "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals.[1] Typically, out-of-hospital medical care is provided to the patient. Ambulances are used to respond to medical emergencies by emergency medical services. For this purpose, they are generally equipped with flashing warning lights and sirens. They can rapidly transport paramedics and other first responders to the scene, carry equipment for administering emergency care and transport patients to hospital or other definitive care. Most ambulances use a design based on vans or pick-up trucks. Others take the form of motorcycles, cars, buses, aircraft and boats.",
-        "fee" : 250
+        "desp" : "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals.[1] Typically, out-of-hospital medical care is provided to the patient. Ambulances are used to respond to medical"
     },
 
     {
         "id" : 9,
         "title" : "Full Checkup",
         "img" : "https://i.ibb.co/99SCPKY/Checkup.png",
-        "desp" : "Full Body Check-up Package Consists: Complete Blood Count (CBC), Blood Sugar (Fasting & 2 hrs ABF), HbA1c, Lipid Profile (Fasting), Liver Function Test, Serum Creatinine, Serum Uric Acid, Serum Electrolytes, TSH, HBsAg, PSA, Urine R/E, ECG, X-ray Chest PA View (Digital), Ultrasonography of WHone Abdomen. Liver Function Test (SGPT, Alkaline Phosphatase, S. Bilirubin), Keiney Function Test (S. Creatinine, S. Urea, Electrolytes), C-Reactive Protein (CRP), Colour Doppler Echo, ETT",
-        "fee" : 1000
+        "desp" : "Full Body Check-up Package Consists: Complete Blood Count (CBC), Blood Sugar (Fasting & 2 hrs ABF), HbA1c, Lipid Profile (Fasting), Liver Function Test, Serum Creatinine, Serum Uric Acid, Serum Electrolytes, TSH, HBsAg, PSA"
     }
 ]
