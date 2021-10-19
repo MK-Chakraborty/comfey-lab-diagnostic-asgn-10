@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Col, Container, Row, Button } from 'react-bootstrap';
 import { useHistory, useLocation } from 'react-router';
 import useAuth from '../../Hooks/useAuth';
@@ -15,7 +15,7 @@ const SignUp = () => {
     const [message, setMessage] = useState('');
     const [isLogin, setIsLogin] = useState('');
 
-    const { signInUsingGoogle, isLoading, setIsLoading } = useAuth();
+    const { signInUsingGoogle, setIsLoading } = useAuth();
 
     const location = useLocation();
     const history = useHistory();
@@ -30,11 +30,7 @@ const SignUp = () => {
     }
 
 
-
-
-
-
-
+    // Emil - Password Authentication
 
     const auth = getAuth();
 
@@ -54,6 +50,7 @@ const SignUp = () => {
         setIsLogin(e.target.checked);
     }
 
+    // Sign Up
     const registerNewUser = (email, password) => {
         createUserWithEmailAndPassword(auth, email, password)
             .then(result => {
@@ -62,7 +59,6 @@ const SignUp = () => {
                 setError('');
                 setMessage('Your Account Has Been Created. You Can Sign In Now.')
                 updateUserData();
-                // verifyEmail();
             })
             .catch(error => {
                 setError(error.message);
@@ -73,6 +69,7 @@ const SignUp = () => {
         updateProfile(auth.currentUser, { displayName: name })
     }
 
+    // Sign In
     const userSignIn = () => {
         signInWithEmailAndPassword(auth, email, password)
             .then(result => {
@@ -85,6 +82,8 @@ const SignUp = () => {
 
     const processRegisterUser = (event) => {
         event.preventDefault();
+
+        // Checking Password Strength
         if (password.length < 8) {
             setError('Password Must Contain Minimum 8 Charaters');
             return;
@@ -95,15 +94,6 @@ const SignUp = () => {
         }
         isLogin ? registerNewUser(email, password) : userSignIn(email, password);
     }
-
-
-
-
-
-
-
-
-
 
 
     return (

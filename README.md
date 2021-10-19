@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Comfey Lab Diagnostic Center
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Life Site Link: (https://health-assignment-10.web.app/).
 
-## Available Scripts
+## Key Points about Comfey Lab
 
-In the project directory, you can run:
+This is a website about a diagnostic lab named "Comfey Lab". "Comfey Lab" 
+have many services at reasonable prices, which give patients a very comfortable experience. Here Are some key things that you may love
+to know about this site.
 
-### `npm start`
+* This site is developed with React JS.
+    React JS is the most popular JavaScript frontend library. By Which we can develop amazing and efficient web applications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* This is a single page application.
+    This site doesn't reload while surfing from one page to another. Which gives the user a very pleasant and smooth experience. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* React Router has been used to define routes.
+    React Router is a collection of navigational components that compose declaratively with an application. React Router is used to developing SPA sites. 
 
-### `npm test`
+* This site has two authentication systems.
+    Users can sign up and sign in to this site via two authentication systems, which are the Gmail Authentication system and the Email/Password Authentication system. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* This site has some private routes.
+    To visit some routes in user needs to sign in first.  Otherwise, it will take the user to the sign-in page.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Context API is used for efficiency. 
+    To access something uniformly we use context API.

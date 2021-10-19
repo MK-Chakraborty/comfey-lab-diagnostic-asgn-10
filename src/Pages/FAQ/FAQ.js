@@ -55,6 +55,34 @@ const FAQ = () => {
                     Generally, minors must be accompanied by their parent or legal guardian. Comfey Lab is required to obtain authorization for the collection procedure and the billing of tests as ordered by a physician. If you are not the child’s legal guardian, you may need to provide a notarized statement signed by the minor’s parent or legal guardian that authorizes you to provide this permission.
                     </Accordion.Body>
                 </Accordion.Item>
+
+                <Accordion.Item eventKey="6">
+                    <Accordion.Header>How do I access my lab test results?</Accordion.Header>
+                    <Accordion.Body>
+                    Generally, minors must be accompanied by their parent or legal guardian. Comfey Lab is required to obtain authorization for the collection procedure and the billing of tests as ordered by a physician. If you are not the child’s legal guardian, you may need to provide a notarized statement signed by the minor’s parent or legal guardian that authorizes you to provide this permission.
+                    </Accordion.Body>
+                </Accordion.Item>
+
+                <Accordion.Item eventKey="7">
+                    <Accordion.Header>My lab results have not been posted and more than two weeks have passed. What should I do?</Accordion.Header>
+                    <Accordion.Body>
+                    Generally, minors must be accompanied by their parent or legal guardian. Comfey Lab is required to obtain authorization for the collection procedure and the billing of tests as ordered by a physician. If you are not the child’s legal guardian, you may need to provide a notarized statement signed by the minor’s parent or legal guardian that authorizes you to provide this permission.
+                    </Accordion.Body>
+                </Accordion.Item>
+
+                <Accordion.Item eventKey="8">
+                    <Accordion.Header>How do I access the lab test results of other people in my Patient​ portal account?</Accordion.Header>
+                    <Accordion.Body>
+                    Generally, minors must be accompanied by their parent or legal guardian. Comfey Lab is required to obtain authorization for the collection procedure and the billing of tests as ordered by a physician. If you are not the child’s legal guardian, you may need to provide a notarized statement signed by the minor’s parent or legal guardian that authorizes you to provide this permission.
+                    </Accordion.Body>
+                </Accordion.Item>
+
+                <Accordion.Item eventKey="9">
+                    <Accordion.Header>How soon can I expect to receive my lab test results?</Accordion.Header>
+                    <Accordion.Body>
+                    Generally, minors must be accompanied by their parent or legal guardian. Comfey Lab is required to obtain authorization for the collection procedure and the billing of tests as ordered by a physician. If you are not the child’s legal guardian, you may need to provide a notarized statement signed by the minor’s parent or legal guardian that authorizes you to provide this permission.
+                    </Accordion.Body>
+                </Accordion.Item>
             </Accordion>
         </Container>
     );
